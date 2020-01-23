@@ -16,6 +16,30 @@ Happy coding!
 
 Basic Data Types
 ----------------------
+we did a basic overview of lists
+we did a basic overview of loops
+
 
 What We Learned
 -----------------
+Basics of Python
+Some traditional ways of handling loops and lists
+Writing functions in Python
+And some differences between Python and V syntax
+Write functions in Python and Compare to V
+        1. Before coding, write things on paper.
+        2. define the function with an explicit name and parameters with an obvious return value.
+        3. K.I.S.S --> keep it simple stupid.
+        4. write test cases often!
+        
+
+
+Next Time
+-----------------
+
+
+
+
+Write a basic class in Python and Compare to V      -- Tomorrow
+Introduce Lambda functions                          -- Tomorrow
+
